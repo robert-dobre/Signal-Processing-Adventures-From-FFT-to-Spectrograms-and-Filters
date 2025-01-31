@@ -3,6 +3,10 @@ An interactive signal processing challenge exploring FFT, spectrograms, and filt
 
 Dive into the fascinating world of signal processing with this hands-on repository! Designed as both an educational journey and a playful exploration, this project takes you from mastering the Fast Fourier Transform (FFT) to creating notch filters and interpreting spectrograms. Along the way, you'll tackle engaging tasks, uncover hidden messages, and earn your place among the Fellowship of the Signal.
 
+This is a MATLAB project that can be opened directly by pressing the button below:
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=robert-dobre/Signal-Processing-Adventures-From-FFT-to-Spectrograms-and-Filters&file=Main.mlx)
+
 ## What You’ll Find Here
 
 ### **Interactive Learning Modules**
